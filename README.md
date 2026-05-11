@@ -1,8 +1,10 @@
- Hi 👋, I'm S.RUSHI
+💫 About Me
+---
+Hi 👋, I'm S.RUSHI , B.Tech student focused on building real-world tech in Full Stack Development and AI/ML.
+I care about actually building projects, not just learning theory.
 
-💻 Full Stack Developer  
-🤖 Learning AI/ML  
-🚀 Building cool projects  
+🚀 Featured Projects
+---
 
 ---
 
