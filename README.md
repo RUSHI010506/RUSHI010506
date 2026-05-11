@@ -2,6 +2,7 @@
 ---
 Hi 👋, I'm S.RUSHI , B.Tech student focused on building real-world tech in Full Stack Development and AI/ML.
 I care about actually building projects, not just learning theory.
+---
 
 🚀 Featured Projects
 ---
@@ -10,10 +11,12 @@ I care about actually building projects, not just learning theory.
 ---
 
 ## 🌱 Currently Learning
+---
 - MERN Stack
 - AI/ML
 - Data Structures
 - Full stack Development 
+---
 
 ## 📫 Contact
 - Email: suravajjalarushi@gmail.com
