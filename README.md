@@ -5,13 +5,15 @@ I care about actually building projects, not just learning theory.
 
 🚀 Featured Projects
 ---
-
+1. COGNITIVE AWARE VEDIO PLAYER
+2. LAST HOPE - AUTO SOS SYSTEM
 ---
 
 ## 🌱 Currently Learning
 - MERN Stack
 - AI/ML
 - Data Structures
+- Full stack Development 
 
 ## 📫 Contact
 - Email: suravajjalarushi@gmail.com
