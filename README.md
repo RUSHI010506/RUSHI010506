@@ -1,4 +1,18 @@
-## Hi there 👋
+ Hi 👋, I'm S.RUSHI
+
+💻 Full Stack Developer  
+🤖 Learning AI/ML  
+🚀 Building cool projects  
+
+---
+
+## 🌱 Currently Learning
+- MERN Stack
+- AI/ML
+- Data Structures
+
+## 📫 Contact
+- Email: yourmail@gmail.com
 
 <!--
 **RUSHI010506/RUSHI010506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
